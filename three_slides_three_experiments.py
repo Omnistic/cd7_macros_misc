@@ -4,7 +4,7 @@ from Zeiss.Micro.AMP.Scripting import LiveScanScriptingPlugin
 ZenLiveScan = LiveScanScriptingPlugin.Instance
 exp = ZenExperiment()
 
-file_prefix = 'multislide_'
+file_prefix = 'multislide-'
 exp_prefix = 'exp_slide'
 save_folder = 'D:\\UserData\\Transfer\\'
 
